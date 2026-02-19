@@ -57,19 +57,8 @@ View the full Figma design that inspired this project:
 ├── tsconfig.json
 ├── vite.config.ts
 └── README.md
-text### Alternative placement options
-
-If you prefer the Figma link **even higher** (right after the title):
-
-```markdown
+text
 
 
-﻿# Love Xovato E-Commerce
 
-**[Figma Design → View Prototype](https://www.figma.com/design/zdJd4mPod30xd33lzPMAQ8/Untitled?node-id=0-1&t=opzeppelktx5RRNr-1)**
 
-Modern, elegant and fully responsive e-commerce website built with React, TypeScript, Tailwind CSS, Framer Motion, TanStack Query (React Query), and Shadcn/ui components.
-
-Created with ❤️ by **Love Xovato Team**
-
-**[→ Open Live Demo](https://xovato-e-commerce.vercel.app/)**
