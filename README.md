@@ -4,7 +4,7 @@ Modern, elegant and fully responsive e-commerce website built with React, TypeSc
 
 Created with ❤️ by **Love Xovato Team**
 
-Live Demo: [Xovato-Template ][](https://xovato-e-commerce.vercel.app/)
+Live Demo: [Xovato-Template][](https://xovato-e-commerce.vercel.app/)
 
 
 ## ✨ Features
@@ -53,5 +53,6 @@ Live Demo: [Xovato-Template ][](https://xovato-e-commerce.vercel.app/)
 ├── vite.config.ts
 
 └── README.md
+
 
 
